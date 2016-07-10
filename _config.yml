@@ -6,9 +6,9 @@ color:
   saturation: 0.9606348418164998
   rhythmicContrast: 0.4672725738491863
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: welcome studio
